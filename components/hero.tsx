@@ -5,7 +5,9 @@ import Illustration from "@/public/images/glow-bottom.svg";
 export default function Hero() {
   return (
     <section>
-      <div className="relative max-w-6xl mx-auto px-4 sm:px-6">
+
+      <div className="min-h-screen relative mx-auto px-4 sm:px-6">
+
         {/* Particles animation */}
         <Particles className="absolute inset-0 -z-10" />
 

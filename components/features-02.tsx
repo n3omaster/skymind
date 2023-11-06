@@ -23,12 +23,14 @@ export default function Features02() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">
-              Faster. Smarter.
+              Faster. Smarter. Safer.
             </h2>
             <p className="text-lg text-slate-400">
-              There are many variations available, but the majority have
-              suffered alteration in some form, by injected humour, or
-              randomised words which don't look even slightly believable.
+              With the most advanced technology, we bring you the best in class
+              software solutions for your business and personal needs. We are a
+              team of highly skilled and experienced professionals who are
+              passionate about delivering the best in class solutions for your
+              business.
             </p>
           </div>
 
@@ -118,10 +120,10 @@ export default function Features02() {
                               Optimized for security
                             </h3>
                             <p className="text-slate-400">
-                              Optimize for user experience and privacy. Use
-                              social login integrations, lower user friction,
-                              incorporate rich user profiling, and facilitate
-                              more transactions.
+                              With experts in the field of security, payments
+                              providers, and the latest in security technology,
+                              we are able to provide you with the best in class
+                              security for your business.
                             </p>
                           </div>
                         </div>
@@ -172,8 +174,9 @@ export default function Features02() {
                             Extensibility
                           </h3>
                           <p className="text-slate-400">
-                            Your login box must find the right balance between
-                            user convenience, privacy and security.
+                            All of our products are built with extensibility in
+                            mind, so you can easily add new features and
+                            functionality to your existing products.
                           </p>
                         </div>
                       </div>
@@ -210,8 +213,8 @@ export default function Features02() {
                             Infinite options
                           </h3>
                           <p className="text-slate-400">
-                            Quickly apply filters to refine your issues lists
-                            and create custom views.
+                            Think of all the possibilities you can do with our
+                            products. The sky is the limit.
                           </p>
                         </div>
                       </div>
@@ -245,11 +248,10 @@ export default function Features02() {
                 >
                   <path d="M7.999 2.34a4.733 4.733 0 0 0-6.604 6.778l5.904 5.762a1 1 0 0 0 1.4 0l5.915-5.77a4.733 4.733 0 0 0-6.615-6.77Zm5.208 5.348-5.208 5.079-5.2-5.07a2.734 2.734 0 0 1 3.867-3.864c.182.19.335.404.455.638a1.04 1.04 0 0 0 1.756 0 2.724 2.724 0 0 1 5.122 1.294 2.7 2.7 0 0 1-.792 1.923Z" />
                 </svg>
-                <h4 className="font-medium text-slate-50">Filters</h4>
+                <h4 className="font-medium text-slate-50">Love the product</h4>
               </div>
               <p className="text-sm text-slate-400">
-                Login box must find the right balance for the user convenience,
-                privacy and security.
+                We dont just build products, we build relationships. We are here to help you succeed.
               </p>
             </div>
             {/* Feature */}
@@ -266,8 +268,7 @@ export default function Features02() {
                 <h4 className="font-medium text-slate-50">Configurable</h4>
               </div>
               <p className="text-sm text-slate-400">
-                Login box must find the right balance for the user convenience,
-                privacy and security.
+                All our development is done in-house, so we can easily adapt to your needs.
               </p>
             </div>
             {/* Feature */}
@@ -284,8 +285,7 @@ export default function Features02() {
                 <h4 className="font-medium text-slate-50">Adaptable</h4>
               </div>
               <p className="text-sm text-slate-400">
-                Login box must find the right balance for the user convenience,
-                privacy and security.
+                Pivot your business with ease. Just let us know what you need and we will make it happen.
               </p>
             </div>
             {/* Feature */}
@@ -302,8 +302,7 @@ export default function Features02() {
                 <h4 className="font-medium text-slate-50">Authorization</h4>
               </div>
               <p className="text-sm text-slate-400">
-                Login box must find the right balance for the user convenience,
-                privacy and security.
+                Want to manage a strong role based authorization system? We got you covered.
               </p>
             </div>
             {/* Feature */}
@@ -320,8 +319,7 @@ export default function Features02() {
                 <h4 className="font-medium text-slate-50">Management</h4>
               </div>
               <p className="text-sm text-slate-400">
-                Login box must find the right balance for the user convenience,
-                privacy and security.
+                Buy time by automating your business processes and management. We can help you with that.
               </p>
             </div>
             {/* Feature */}
@@ -338,8 +336,7 @@ export default function Features02() {
                 <h4 className="font-medium text-slate-50">Building</h4>
               </div>
               <p className="text-sm text-slate-400">
-                Login box must find the right balance for the user convenience,
-                privacy and security.
+                Get puntual updates on the progress of your project. We will keep you in the loop.
               </p>
             </div>
           </div>

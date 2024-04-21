@@ -72,6 +72,14 @@ export default function Footer() {
               <li>
                 <a
                   className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out"
+                  href="https://trondealer.com"
+                >
+                  TronDealer Energy Rental
+                </a>
+              </li>
+              <li>
+                <a
+                  className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out"
                   href="https://www.cambiocup.com"
                 >
                   CUP informal rate
@@ -88,9 +96,9 @@ export default function Footer() {
               <li>
                 <a
                   className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out"
-                  href="#0"
+                  href="https://facstore.live"
                 >
-                  FACMusic Online
+                  FACStore
                 </a>
               </li>
               <li>
@@ -162,7 +170,7 @@ export default function Footer() {
                   className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
-                  Terms of service
+                  State of the art
                 </a>
               </li>
               <li>
